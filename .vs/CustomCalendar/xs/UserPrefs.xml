@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{FE50741F-5B7D-43FC-8478-A9A0ABE0FEA9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomCalendar/App.xaml.cs">
+    <Files>
+      <File FileName="CustomCalendar/Controls/DayCell.cs" Line="55" Column="24" />
+      <File FileName="CustomCalendar/Controls/Calendar.cs" Line="289" Column="1" />
+      <File FileName="CustomCalendar/Sample/MainPage.xaml" Line="6" Column="45" />
+      <File FileName="CustomCalendar/Sample/MainPage.xaml.cs" Line="14" Column="13" />
+      <File FileName="CustomCalendar.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="CustomCalendar/ExtensionMethods/DayOfWeekExtension.cs" Line="8" Column="6" />
+      <File FileName="CustomCalendar/Strings/Days.cs" Line="7" Column="18" />
+      <File FileName="CustomCalendar/App.xaml" Line="5" Column="15" />
+      <File FileName="CustomCalendar/Helpers/DaysOfWeekHelper.cs" Line="16" Column="30" />
+      <File FileName="CustomCalendar/App.xaml.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CustomCalendar.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8B943171-EF83-43AF-9474-8801354ABA13" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CustomCalendar.Android PreferredExecutionTarget="Android.Pixel_API_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

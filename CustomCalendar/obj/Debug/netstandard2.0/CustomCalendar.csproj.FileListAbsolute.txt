@@ -1,0 +1,12 @@
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/bin/Debug/netstandard2.0/CustomCalendar.deps.json
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/bin/Debug/netstandard2.0/CustomCalendar.dll
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/bin/Debug/netstandard2.0/CustomCalendar.pdb
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/CustomCalendar.csproj.CoreCompileInputs.cache
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/CustomCalendar.AssemblyInfoInputs.cache
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/CustomCalendar.AssemblyInfo.cs
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/CustomCalendar.dll
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/CustomCalendar.pdb
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/CustomCalendar.csprojAssemblyReference.cache
+/Users/annabagriy/Projects/CustomCalendar/CustomCalendar/obj/Debug/netstandard2.0/Sample/MainPage.xaml.g.cs
